@@ -1,1 +1,30 @@
+# folder created by python
+__pycache__
+
+# folders with the synthetic microstructures
+2DInclusion_gs
+blob
+Imperial
+Imperial_inv
+Imperial_pp
+mono_cross_add
+mono_cube_add
+mono_rect_add
+mono_sphere_add
+mono_sphere_rem
+navier
+SandAtlas
+SandAtlas_gs
+sintered_sample
+sintered_sample_inv
+sintered_sample_pp
+snake
+spiral
+spiral_inv
+
+# results of the FFT
+SIMULATIONS
+
+# post-processing
+0_pp_data
 
